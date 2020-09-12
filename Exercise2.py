@@ -20,7 +20,7 @@ print(string)
 
 #center()	method will center align the string
 string ="SADID"
-string = string.center(10) # it will create 10 charecter storng
+string = string.center(10) # it will create 10 charecter string
 print(string)
 #output:      sadid
 
